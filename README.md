@@ -21,5 +21,8 @@ Create a VirtualEnvironment and install requirements.txt file using "pip install
     pip install -r requirements.txt
     ```
 Once all the requirements are installed, simply run the "instagram.py" file from terminal via
-``` python3 instagram.py```
+``` 
+python3 instagram.py
+```
+
 You may have to chmod it before running it. It will request for your credentials and the user you want to download all the content of.
